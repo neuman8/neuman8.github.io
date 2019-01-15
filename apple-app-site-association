@@ -1,0 +1,15 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "S2TPSJEEDG.com.authentify.xyzfinace",
+"paths": ["*"]
+},
+{
+"appID": "S2TPSJEEDG.com.earlywarning.EwsMobileSdkDemoApp",
+"paths": ["*"]
+}
+]
+}
+}
