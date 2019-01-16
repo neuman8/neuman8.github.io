@@ -6,4 +6,10 @@
     "sha256_cert_fingerprints":
     ["83:74:71:9A:38:09:A4:C9:4A:7A:79:B8:FC:B3:B1:BF:34:7F:A2:24:EE:DC:86:FE:81:80:F9:F6:52:83:DC:4E"]
   }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.authentify.mobilesdktest",
+    "sha256_cert_fingerprints":
+    ["83:74:71:9A:38:09:A4:C9:4A:7A:79:B8:FC:B3:B1:BF:34:7F:A2:24:EE:DC:86:FE:81:80:F9:F6:52:83:DC:4E"]
+  }
 }]
